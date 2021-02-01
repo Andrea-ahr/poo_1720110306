@@ -30,7 +30,7 @@ class Estudiante():
         print("Metodo hacer practicas"
     
    def adelantar_materias(self):
-         print("Metodo hacer practicas")
+       print("Metodo adelantar materias")
 
 # Creacion de un objeto basado en una clase
 Andrea = Estudiante()
