@@ -19,7 +19,7 @@ class Vacaciones():
     # Metodos
 
     def conocer_lugares(self):
-        print(Metodo conocer lugares) 
+        print("Metodo conocer lugares") 
 
     def disfrutar(self):
         print("Metodo disfrutar")
@@ -30,7 +30,8 @@ class Vacaciones():
     def aprender_cultura(self):
         print("Metodo aprender cultura")
 
-    def convivir("Metodo convivir") 
+    def convivir(self):
+        print("Metodo convivir") 
 # Creacion de un objeto basado en una clase
 playa = Vacaciones()
 
@@ -61,5 +62,5 @@ print(playa.tipo)
 playa.conocer_lugares()
 playa.disfrutar()
 playa.comer()
-playa.aprender_culturas()
-playa,disfrutar()
+playa.aprender_cultura()
+playa.disfrutar()

@@ -34,11 +34,11 @@ class Calculadora():
         print("Metodo sacar raiz")
 
 #Creacion de un objeto basado en una clase
-Cientifica = Calculadora()
+cientifica = Calculadora()
 
 #Asignacion de valores a las propiedades
 
-cientifica.tipo = "cientifica"
+cientifica.tipo = "escolar"
 cientifica.tamano = "mediano"
 cientifica.accesorios = "si"
 cientifica.material = "plastico"
@@ -58,7 +58,7 @@ print(cientifica.precio)
 print(cientifica.color)
 print(cientifica.funciones)
 print(cientifica.diseño)
-print(Icientifica.teclado)
+print(cientifica.teclado)
 
 cientifica.sumar()
 cientifica.restar()

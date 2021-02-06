@@ -21,16 +21,16 @@ class Avion():
      def despegar(self):
          print("Metodo despegar")
 
-    def aterrizar(self):
-        print("Metodo aterrizar")
+     def aterrizar(self):
+         print("Metodo aterrizar")
 
-    def transportar(self):
+     def transportar(self):
         print("Metodo transportar")
 
-    def girar(self):
+     def girar(self):
         print("Metodo girar")
 
-    def encender_luz(self):
+     def encender_luz(self):
         print("Metodo encender luz")
 
 #Creacion de un objeto basado en una clase
@@ -56,11 +56,11 @@ print(militar.tanque_gasolina)
 print(militar.forma_aerodinamica)
 print(militar.repelente_lluvia)
 print(militar.estabilizador)
-print(militar.timon_direcciono)
+print(militar.timon_direccion)
 print(militar.generador_oxigeno)
 
 militar.despegar()
 militar.aterrizar()
-militar.trasportar()
+militar.transportar()
 militar.girar()
 militar.encender_luz() 

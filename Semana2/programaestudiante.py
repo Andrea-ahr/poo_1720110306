@@ -13,7 +13,7 @@ class Estudiante():
    curiosidad = None
 
    def __init__(self):
-    print("clase Estudiante")
+       print("clase Estudiante")
 
    
 
@@ -28,7 +28,7 @@ class Estudiante():
 
    def hacer_practicas(self):
         print("Metodo hacer practicas"
-    
+
    def adelantar_materias(self):
        print("Metodo adelantar materias")
 

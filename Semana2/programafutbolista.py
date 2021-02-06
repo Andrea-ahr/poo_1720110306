@@ -1,5 +1,5 @@
 class Futbolista() 
-    
+
     #Propiedades o caracteristicas
 
     genero = None
@@ -20,10 +20,10 @@ class Futbolista()
 
     def correr(self):
         print("Metodo correr")
-    
+
     def hablar(self):
         print("Metodo hablar")
-    
+
     def jugar(self):
         primt("Metodo jugar")
 

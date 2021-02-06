@@ -41,7 +41,7 @@ camioneta.marca = "mazda"
 camioneta.color = "blanca"
 camioneta.motor = "bueno"
 camioneta.kilometraje = 15,000
-camioneta.transmision = "automatica
+camioneta.transmision = "automatica"
 camioneta.año = 2019
 camioneta.modelo = "reciente"
 camioneta.velocidad = "250 k/h"
@@ -50,7 +50,7 @@ camioneta.quemacocos ="si"
 
 print(camioneta.marca)
 print(camioneta.color)
-print(camioneta.motor0)
+print(camioneta.motor)
 print(camioneta.kilometraje)
 print(camioneta.año)
 print(camioneta.modelo)
