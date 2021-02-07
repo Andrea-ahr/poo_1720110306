@@ -1,4 +1,4 @@
-class Futbolista() 
+class  Futbolista():
 
     #Propiedades o caracteristicas
 
@@ -6,7 +6,7 @@ class Futbolista()
     equipo = None
     posicion = None
     altura = None
-    }uniforme = None
+    uniforme = None
     peso = None
     condicion = None
     estrategias = None
@@ -25,7 +25,7 @@ class Futbolista()
         print("Metodo hablar")
 
     def jugar(self):
-        primt("Metodo jugar")
+        print("Metodo jugar")
 
     def comer(self):
         print("Metodo comer")
@@ -56,7 +56,7 @@ print(messi.uniforme)
 print(messi.peso)
 print(messi.condicion)
 print(messi.estrategia)
-print(messi.nacinalidad)
+print(messi.nacionalidad)
 print(messi.descendencia)
 
 messi.correr()
