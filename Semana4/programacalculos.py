@@ -1,7 +1,7 @@
 '''
 Andrea Hernandez Riveros
 TIC 21
-14 - feb - 2021
+17 - feb - 2021
 Pedir numero de calculos que se desea calcular y posteriormete realizar el calculo de los segundos
 '''
 
